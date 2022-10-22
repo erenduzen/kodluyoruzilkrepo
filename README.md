@@ -1,3 +1,6 @@
+<img width="632" alt="Ekran Resmi 2022-10-22 13 21 34" src="https://user-images.githubusercontent.com/116029390/197334145-8a429fad-9da1-4b07-9351-3f16f517c9ad.png">
+
+
 # kodluyoruzilkrepo
 Kodluyoruz eğitimi kapsamında açtığım ilk repo
 
